@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800;900&family=Space+Grotesk:wght@600;700&family=JetBrains+Mono:wght@700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #F8F5EE;
+  color: #121212;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Neubrutalism Building Blocks */
+.neu-box {
+  background-color: #FFFFFF;
+  border: 3px solid #121212;
+  box-shadow: 5px 5px 0px #121212;
+  border-radius: 18px;
+}
+
+.neu-box-sm {
+  border: 2.5px solid #121212;
+  box-shadow: 3.5px 3.5px 0px #121212;
+  border-radius: 14px;
+}
+
+.neu-btn {
+  border: 3px solid #121212;
+  box-shadow: 4px 4px 0px #121212;
+  border-radius: 14px;
+  font-weight: 800;
+  transition: all 0.12s ease-in-out;
+}
+
+.neu-btn:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0px #121212;
+}
+
+.neu-btn:active {
+  transform: translate(4px, 4px);
+  box-shadow: 0px 0px 0px #121212;
+}
+
+.neu-badge {
+  border: 2px solid #121212;
+  box-shadow: 2px 2px 0px #121212;
+  border-radius: 8px;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.05em;
+}
+
+.neu-input {
+  border: 2.5px solid #121212;
+  box-shadow: 3px 3px 0px #121212;
+  border-radius: 12px;
+  background-color: #FFFFFF;
+  color: #121212;
+  font-weight: 600;
+  outline: none;
+  transition: all 0.15s ease;
+}
+
+.neu-input:focus {
+  box-shadow: 5px 5px 0px #2563EB;
+  border-color: #121212;
+}
