@@ -15,13 +15,13 @@ Dibangun dengan pendekatan desain **Studio-Grade Neubrutalism** (kontras tinggi,
 
 ## ✨ Fitur Utama
 
-### 1. 🌐 Landing Page & Katalog Sewa Publik
+### 1. Landing Page & Katalog Sewa Publik
 * **Informasi Hunian Komprehensif**: Menampilkan foto unit, sisa ketersediaan kamar, tarif sewa, serta daftar fasilitas kamar & bersama.
 * **Akses Strategis**: Jarak tempuh riil ke titik kampus (UNDIP), minimarket, kuliner, dan fasilitas umum.
 * **Integrasi Booking Cepat**: Tautan otomatis ke WhatsApp pengelola untuk survei kamar.
 * **Gerbang Autentikasi Mandiri**: Modal login terpisah untuk Pengelola dan Penghuni kost dilengkapi fitur bypass akun demo.
 
-### 2. 🔑 Portal Penghuni (Tenant Experience)
+### 2. Portal Penghuni (Tenant Experience)
 * **Status Sewa & Informasi Kamar**: Memantau nomor kamar aktif, fasilitas terpasang, tagihan sewa, dan batas jatuh tempo.
 * **Pembayaran Sewa Terpadu**: Modal rekening bank (BCA, Mandiri) dengan tombol salin nomor rekening instan dan konfirmasi transfer via WhatsApp.
 * **Formulir Lapor Kerusakan Interaktif**:
@@ -33,7 +33,7 @@ Dibangun dengan pendekatan desain **Studio-Grade Neubrutalism** (kontras tinggi,
   * Tombol validasi: **Sudah Bagus & Berfungsi Normal** (memberi rating bintang) atau **Masih Rusak / Komplain Ulang** (memanggil kembali teknisi).
 * **Riwayat Arsip Tuntas**: Laporan yang telah diverifikasi otomatis dipindahkan ke wadah arsip bawah agar tampilan beranda tetap rapi (*zero clutter*).
 
-### 3. 🛠️ Dashboard Pengelola (Owner / Landlord Operations)
+### 3. Dashboard Pengelola (Owner / Landlord Operations)
 * **Kartu Metrik Real-Time**:
   * Okupansi kamar (rasio keterisian unit).
   * Tiket kerusakan aktif yang membutuhkan tindakan.
